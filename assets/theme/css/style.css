@@ -102,16 +102,20 @@ section {
     text-align: center; } }
 /*! Font-weight  */
 .mbr-light {
-  font-weight: 300; }
+  font-weight: 300;
+color: #767676;}
 
 .mbr-regular {
-  font-weight: 400; }
+  font-weight: 400; 
+color: #767676;}
 
 .mbr-semibold {
-  font-weight: 500; }
+  font-weight: 500; 
+color: #767676;}
 
 .mbr-bold {
-  font-weight: 700; }
+  font-weight: 700; 
+color: #767676;}
 
 /*! Media  */
 .media-size-item {
@@ -236,13 +240,16 @@ nav .mbr-section-btn {
   margin-right: 0.8rem; }
 
 .mbr-regular {
-  font-weight: 400; }
+  font-weight: 400; 
+color: #767676;}
 
 .mbr-semibold {
-  font-weight: 500; }
+  font-weight: 500; 
+color: #767676;}
 
 .mbr-bold {
-  font-weight: 700; }
+  font-weight: 700; 
+color: #767676;}
 
 [type="submit"] {
   -webkit-appearance: none; }
