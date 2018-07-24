@@ -2,6 +2,11 @@
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
+
+iframe { 
+vertical-align: middle; 
+}
+
 section {
   background-color: #eeeeee; }
 
