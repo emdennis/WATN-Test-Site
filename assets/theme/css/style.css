@@ -4,7 +4,8 @@
  */
 
 iframe { 
-vertical-align: middle; 
+    display: block;
+    margin: 0 auto; 
 }
 
 section {
